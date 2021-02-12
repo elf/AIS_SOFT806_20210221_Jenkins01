@@ -1,1 +1,1 @@
-printprint "wrong code"
+print("valid code")
